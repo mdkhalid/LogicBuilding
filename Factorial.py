@@ -8,7 +8,7 @@ def Factorial(fn):
 N=int(input("Enter Number for factorial: "))
 res= Factorial(N)
 smallestfactor = 0
-for i in range(1,N+1):
+for i in range(2,N+1):
     if N%i==0:
         smallestfactor=i
         break
