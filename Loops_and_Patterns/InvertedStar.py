@@ -8,3 +8,4 @@ N= int(input("Enter Number: "))
 # no changes
 # no changes
 # no changes
+# no change
