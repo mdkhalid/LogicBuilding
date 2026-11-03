@@ -22,4 +22,4 @@ N= int(input("Enter Number: "))
 # no change
 # no change
 # no change
-
+# no change
